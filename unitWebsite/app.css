@@ -1,0 +1,165 @@
+h1{
+    text-align: center;
+    color: yellow;
+    font-family: 'Anton', sans-serif;
+    font-size: 85px;
+}
+ul {
+    text-align: center;
+    padding: 10px;
+}
+h2 {
+    text-align: center;
+    font-family: 'EB Garamond', serif;
+    color: black;
+    font-size: 45px;
+}
+header {
+    background: url(images/morewaves.jpg);
+    background-size: cover;
+    padding: 100px 0px 0px 0px;
+
+}
+body {
+    background-color: rgb(66, 135, 173);
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+p {
+    font-family: 'EB Garamond', serif;
+    font-size: 19px;
+    text-align: left;
+}
+li {
+    font-family: 'EB Garamond', serif;
+    font-size: 19px;
+}
+h3 {
+    color: black;
+    font-family: 'EB Garamond', serif;
+    text-align: center;
+    font-size: 30px;
+}
+article {
+    padding: 20px;
+    width: 500px;
+    margin: 0 auto;
+}
+a {
+    color: yellow;
+}
+.inline {
+    display: inline; 
+    padding: 0px 10px 0px 10px;
+    color: yellow;
+    font-family: 'Indie Flower', cursive;
+    font-size: 25px;
+}
+.button {
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    padding: 9px 20px;
+    border: 2px solid #8da4af;
+    border-radius: 21px;
+    background: #a9dfff;
+    background: -webkit-gradient(linear, left top, left bottom, from(#a9dfff), to(#2d86b3));
+    background: -moz-linear-gradient(top, #a9dfff, #2d86b3);
+    background: linear-gradient(to bottom, #a9dfff, #2d86b3);
+    text-shadow: #591717 1px 1px 1px;
+    font: normal normal normal 22px trebuchet ms;
+    color: #ffffff;
+    text-decoration: none;
+}
+.button:hover,
+.button:focus {
+    border: 2px solid #a2bdc9;
+    background: #cbffff;
+    background: -webkit-gradient(linear, left top, left bottom, from(#cbffff), to(#36a1d7));
+    background: -moz-linear-gradient(top, #cbffff, #36a1d7);
+    background: linear-gradient(to bottom, #cbffff, #36a1d7);
+    color: #ffffff;
+    text-decoration: none;
+}
+.button:active {
+    background: #658699;
+    background: -webkit-gradient(linear, left top, left bottom, from(#658699), to(#2d86b3));
+    background: -moz-linear-gradient(top, #658699, #2d86b3);
+    background: linear-gradient(to bottom, #658699, #2d86b3);
+}
+
+.button {
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    padding: 9px 20px;
+    border: 2px solid #8da4af;
+    border-radius: 21px;
+    background: #a9dfff;
+    background: -webkit-gradient(linear, left top, left bottom, from(#a9dfff), to(#2d86b3));
+    background: -moz-linear-gradient(top, #a9dfff, #2d86b3);
+    background: linear-gradient(to bottom, #a9dfff, #2d86b3);
+    text-shadow: #591717 1px 1px 1px;
+    font: normal normal normal 22px trebuchet ms;
+    color: #ffffff;
+    text-decoration: none;
+}
+.button:hover,
+.button:focus {
+    border: 2px solid #a2bdc9;
+    background: #cbffff;
+    background: -webkit-gradient(linear, left top, left bottom, from(#cbffff), to(#36a1d7));
+    background: -moz-linear-gradient(top, #cbffff, #36a1d7);
+    background: linear-gradient(to bottom, #cbffff, #36a1d7);
+    color: #ffffff;
+    text-decoration: none;
+}
+.button:active {
+    background: #658699;
+    background: -webkit-gradient(linear, left top, left bottom, from(#658699), to(#2d86b3));
+    background: -moz-linear-gradient(top, #658699, #2d86b3);
+    background: linear-gradient(to bottom, #658699, #2d86b3);
+}
+
+.button {
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    padding: 12px 25px;
+    border: 3px solid #8da4af;
+    border-radius: 20px;
+    background: #a8e1ff;
+    background: -webkit-gradient(linear, left top, left bottom, from(#a8e1ff), to(#3c9ac9));
+    background: -moz-linear-gradient(top, #a8e1ff, #3c9ac9);
+    background: linear-gradient(to bottom, #a8e1ff, #3c9ac9);
+    text-shadow: #591717 1px 1px 1px;
+    font: normal normal bold 20px arial;
+    color: #ffffff;
+    text-decoration: none;
+}
+.button:hover,
+.button:focus {
+    border: 3px solid #a2bdc9;
+    background: #caffff;
+    background: -webkit-gradient(linear, left top, left bottom, from(#caffff), to(#48b9f1));
+    background: -moz-linear-gradient(top, #caffff, #48b9f1);
+    background: linear-gradient(to bottom, #caffff, #48b9f1);
+    color: #ffffff;
+    text-decoration: none;
+}
+.button:active {
+    background: #658799;
+    background: -webkit-gradient(linear, left top, left bottom, from(#658799), to(#3c9ac9));
+    background: -moz-linear-gradient(top, #658799, #3c9ac9);
+    background: linear-gradient(to bottom, #658799, #3c9ac9);
+}
+div {
+    text-align: center;
+}
+img {
+    border: 15px double yellow;
+}
+
+

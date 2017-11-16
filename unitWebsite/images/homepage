@@ -1,0 +1,64 @@
+<!doctype html>
+<html>
+    <head>
+        <link href="app.css" rel="stylesheet">
+        <link href="index."
+        <title>Lana's Wesite</title>
+        <meta charset="utf-8">
+    </head>
+    <header>
+    <body>
+            <h1>Lana's Website</h1>
+
+            <ul>
+            <li><a href="#">Homepage</a></li>
+            <li><a href="#">ATM</a></li>
+            <li><a href="#">My Future</a></li>
+            <li><a href="#">Volleyball</a></li>
+            </ul>
+            
+            <h2>All About Lana</h2><br>
+            <h3>My Family</h3>
+            <p>My dad is 57 and he is serious most of the time. He is very kind though. 
+                He is thoughtful towards others and always thinks of other before himself. 
+                My mom is also the same but is has a very bright personality. She wears 
+                the brightest clothing, with flower headbands, and loves the color RED! She 
+                is the most creative person I know. She would make her frames for photos out 
+                of ribbons, buttons, and feathers. She would always sing songs but don’t know 
+                the lyrics. And has the most kind heart in this whole world. My brother is the 
+                sweetest little boy ever. He is 16 and he has down-syndrome. He is super smart 
+                and can breakdance very well. He knows hip-hop and knows jiu jitsu. He is so kind 
+                and doesn't let anything stop him. I love my sister! She is the most ambitious, 
+                loveable, crazy, creative, silly person I’ll ever know. We are basically best 
+                friends more than sisters. We both share the same dream of traveling the world 
+                and trying different food. She is a musician and singer that plays everywhere. 
+                She has traveled all over the U.S. and she is currently in Israel right now with 
+                her boyfriend. She is a very talented person and is super pretty. I look up to 
+                my sister all the time.
+            </p>
+            <h3> My Hobbies and Interest</h3>
+            <p>One of my constant hobbies is volleyball. I play at a club called New Wave Volleyball 
+                Club. I have been playing for 2 years now and plan to keep going. I also like to shop
+                 at Pacsun, Forever 21, and others. Other hobbies are hanging out with my siblings, 
+                 cleaning my house, and reading. I also  really enjoy volleyball and tennis. Volleyball 
+                 is my favorite sport and I like to play tennis with my family. I love to travel around
+                  Long Beach, go to local coffee shops, and hang out by Shoreline Village with my mom. 
+                </p>
+            <h3> My Skills</h3>
+            <p> I am very talented at the keyboard. I can write 55 wpm. I also play volleyball and plan 
+                to tryout for high school. My GPA is great at 4.0 and I like to digital art and like to 
+                make websites. I am also a good photographer. I’m very organized and like to get my work
+                completed before the time limit. 
+                </p>
+            <h3> My High School Choice</h3>
+            <p>  I would like to go to Lakewood High School. Lakewood is my home school and it is very 
+                close by. They have an excellent volleyball program and my brother is at that school. He
+                is in the special the S.P.E.D. classes and I would love to try out to be his best buddie. They have a great 
+                ATM program as well. They work on photoshop and they make t-shirts from your designs. They
+                 have different language classes and I would love to learn spanish. If I had another choice
+                  my second language would be french or japanese.  
+                 </p>
+            
+        
+    </body>
+</html>
